@@ -1,0 +1,13 @@
+#result {width:594px;}
+#result thead{border:0 none; visibility:hidden;}
+#result tr.name{ font-size:16px; background:#74801F; border-top:solid 1px #D0D0D0; border-bottom: solid 1px #D0D0D0; color:#FFFFFF;}
+#result tr.name:hover{font-size:16px; color:orange;}
+#result td{padding:10px 5px 0px 5px}
+#result div.outer {width:100%;}
+#result div.outer.inner{width:95%; float:left;}
+#result div.arrow{background:transparent url(arrows.png) no-repeat scroll 0px -16px; height:16px; width:16px; width:5%; float:right; padding:0px 0px 5px 0px;}
+#result div.up { background-position:0px 0px;}
+#result tr.journal{background:#282C0B; color:#FFFFFF;}
+#result div.journal_content{width:100%;overflow:auto;}
+#result div.journal_content_columns{background:#282C0B; width:30%; float:left; font-size: 13px;}
+#result div.journal_content_data{background:#282C0B; width:70%; float:right; font-size: 14px;}
